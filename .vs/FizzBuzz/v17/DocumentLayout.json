@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lenovo\\source\\repos\\fizzbuzz\\fizzbuzz\\fizzbuzzservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\fizzbuzzservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lenovo\\source\\repos\\fizzbuzz\\fizzbuzz\\fizzbuzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\fizzbuzz.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lenovo\\source\\repos\\fizzbuzz\\fizzbuzz\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\services\\fizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lenovo\\source\\repos\\fizzbuzz\\fizzbuzz\\interfaces\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\interfaces\\ifizzbuzzservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lenovo\\source\\repos\\fizzbuzz\\fizzbuzz\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\controllers\\fizzbuzzcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\lenovo\\source\\repos\\fizzbuzz\\fizzbuzz\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{4276CE75-F4F5-474D-BF34-2E4D090D4A22}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FizzBuzzService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\Services\\FizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Services\\FizzBuzzService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\Services\\FizzBuzzService.cs",
+              "RelativeToolTip": "FizzBuzz\\Services\\FizzBuzzService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:37:52.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFizzBuzzService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "RelativeToolTip": "FizzBuzz\\Interfaces\\IFizzBuzzService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T11:33:12.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FizzBuzz.csproj",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+              "RelativeDocumentMoniker": "FizzBuzz\\FizzBuzz.csproj",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzz.csproj",
+              "RelativeToolTip": "FizzBuzz\\FizzBuzz.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-15T11:32:00.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FizzBuzzServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzzServiceTests.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\FizzBuzzServiceTests.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\FizzBuzzServiceTests.cs",
+              "RelativeToolTip": "FizzBuzz\\FizzBuzzServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:20:52.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FizzBuzzController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "RelativeDocumentMoniker": "FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "RelativeToolTip": "FizzBuzz\\Controllers\\FizzBuzzController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-15T09:15:31.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\README.md",
+              "RelativeDocumentMoniker": "FizzBuzz\\README.md",
+              "ToolTip": "C:\\Users\\lenovo\\source\\repos\\FizzBuzz\\FizzBuzz\\README.md",
+              "RelativeToolTip": "FizzBuzz\\README.md",
+              "ViewState": "AQIAAAQAAAAAAAAAAIBJwAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-07-15T10:59:35.943Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
